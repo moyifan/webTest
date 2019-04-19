@@ -1,0 +1,11 @@
+.redView {
+            width: 100px;
+            height: 100px;
+            background: red;
+        }
+
+.greedView {
+            width: 100px;
+            height: 100px;
+            background: green;
+        }
